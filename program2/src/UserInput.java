@@ -1,6 +1,6 @@
 package com.company;
 import java.util.*;
-public class program {
+public class UserInput {
 
 
     public static void main(String args[])
