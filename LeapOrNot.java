@@ -16,7 +16,7 @@ public class LeapYear
 		sc.close();
          }
 }
-***Output***
+### Output
 Enter a Year
 
 1300
